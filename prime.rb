@@ -4,3 +4,4 @@ def prime?(number)
   if number < n 
     false
 end
+end
